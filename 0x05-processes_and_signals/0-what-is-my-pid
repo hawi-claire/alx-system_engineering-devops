@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+# Displays its own PID.
+
+echo $$
