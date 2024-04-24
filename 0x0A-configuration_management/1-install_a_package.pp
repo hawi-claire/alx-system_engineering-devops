@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Install flask from pip3
+# This code will install the package puppet-lint
 class { 'python3': }
 
 package { 'flask':
