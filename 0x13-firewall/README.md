@@ -23,9 +23,6 @@
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/qq0ZGZVq/image.png' border='0' alt='image'/></a>
 </details>
 
-<details>
-<summary><a href="./100-port_forwarding">1. Port forwarding</a></summary><br>
-
 Firewalls can not only filter requests, they can also forward them.
 
 Requirements:
