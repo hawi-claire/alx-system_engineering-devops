@@ -3,6 +3,8 @@
 """ Returns employee information using REST api """
 
 import requests
+import sys
+
 REST_API = "https://jsonplaceholder.typicode.com"
 
 
