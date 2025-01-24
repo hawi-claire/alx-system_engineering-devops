@@ -34,14 +34,14 @@ defaults
   timeout server 15s
   timeout http-request 10s
 
-frontend hawi-tech-frontend
+frontend hawitech-tech-frontend
     bind *:80
-    default_backend hawi-tech-backend
+    default_backend hawitech-tech-backend
 
-backend hawi-tech-backend
+backend hawitech-tech-backend
     balance roundrobin
-    server 531589-web-01 52.205.192.199:80 check
-    server 531589-web-02 100.26.142.103:80 check
+    server 531589-web-01 34.207.237.195:80 check
+    server 531589-web-02 18.214.88.46:80 check
 "
 
 # shellcheck disable=SC2154
