@@ -2,6 +2,7 @@
 <p align="center">
   <img src=images/Domino.jpg />
 </p>
+
 ## Issue Summary
 
 Duration: 1 hour and 15 minutes (14:30 UTC to 15:45 UTC, October 26, 2023).
@@ -30,10 +31,10 @@ We need to improve our change management process and implement more robust testi
 
 Tasks:
 
-Implement code review for all infrastructure configuration changes.
-Add automated testing for Varnish configuration changes, including simulated cache invalidation scenarios.
-Enhance monitoring to include metrics for global cache invalidation events.
-Implement a "canary" deployment system for Varnish configuration updates, rolling out changes to a small subset of users first.
-Document the Varnish configuration change process more thoroughly.
-Implement a circuit breaker for the backend servers, to prevent overload in case of a similar event.
-Add a warning to the script that clears cache entries, to prevent accidentally clearing the entire cache.
+- Implement code review for all infrastructure configuration changes.
+- Add automated testing for Varnish configuration changes, including simulated cache invalidation scenarios.
+- Enhance monitoring to include metrics for global cache invalidation events.
+- Implement a "canary" deployment system for Varnish configuration updates, rolling out changes to a small subset of users first.
+- Document the Varnish configuration change process more thoroughly.
+- Implement a circuit breaker for the backend servers, to prevent overload in case of a similar event.
+- Add a warning to the script that clears cache entries, to prevent accidentally clearing the entire cache.
