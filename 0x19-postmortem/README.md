@@ -1,6 +1,6 @@
 # The case of the Vanishing Varnish: A Postmortem
 <p align="center">
-  <img src=images/Domino picture. ALX postmortem task.jpg />
+  <img src=images/Domino.jpg />
 </p>
 ## Issue Summary
 
