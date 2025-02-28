@@ -1,6 +1,8 @@
-![This image is meant to make the article more eyecatching and it represents the domino effect, the sequence of events that led to the outage](images/Domino picture. ALX postmortem task)
-The case of the Vanishing Varnish: A Postmortem.
-Issue Summary
+# The case of the Vanishing Varnish: A Postmortem
+<p align="center">
+  <img src=images/Domino picture. ALX postmortem task.jpg />
+</p>
+## Issue Summary
 
 Duration: 1 hour and 15 minutes (14:30 UTC to 15:45 UTC, October 26, 2023).
 Impact: Our image processing service, "PixelPerfect," experienced a complete outage. Users attempting to upload or retrieve images received 503 Service Unavailable errors. Approximately 80% of active users were affected, leading to significant frustration and a spike in support tickets.
