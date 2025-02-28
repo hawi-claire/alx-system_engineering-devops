@@ -1,3 +1,4 @@
+![This image is meant to make the article more eyecatching and it represents the domino effect, the sequence of events that led to the outage](images/Domino picture. ALX postmortem task)
 The case of the Vanishing Varnish: A Postmortem.
 Issue Summary
 
