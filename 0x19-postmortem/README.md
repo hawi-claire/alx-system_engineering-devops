@@ -1,4 +1,4 @@
-The case of the Vanishing Varnish: A Postmortem
+The case of the Vanishing Varnish: A Postmortem.
 Issue Summary
 
 Duration: 1 hour and 15 minutes (14:30 UTC to 15:45 UTC, October 26, 2023).
